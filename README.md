@@ -16,6 +16,14 @@ A simple **FastAPI** project to manage students, courses, and enrollments using 
 
 ---
 
+## Technologies 
+- Python 3.11+ – main programming language
+- FastAPI – web framework for API development
+- SQLAlchemy – ORM for database interactions
+- PostgreSQL – relational database
+- Uvicorn – ASGI server to run FastAPI
+- Pydantic – data validation and serialization
+
 ## Project Structure
 
 ```
